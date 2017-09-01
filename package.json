@@ -98,7 +98,7 @@
       }
     },
     "rules": {
-      "linebreak-style": ["error", "windows"],
+      "linebreak-style": 0,
       "arrow-body-style": [
         2,
         "as-needed"
